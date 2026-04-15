@@ -108,7 +108,7 @@ It is a dead-simple, single-purpose agent - perfect for learning the hosted agen
 ## Workshop structure
 
 ```
-📂 ai-toolkit-hosted-agents-workshop/
+📂 Foundry_Toolkit_for_VSCode_Lab/
 ├── 📄 README.md                      ← You are here
 ├── 📂 ExecutiveAgent/                ← Standalone hosted agent project
 │   ├── agent.yaml
