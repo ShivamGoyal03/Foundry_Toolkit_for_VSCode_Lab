@@ -17,6 +17,9 @@ Build, test, and deploy AI agents to **Microsoft Foundry Agent Service** as **Ho
 
 > The `agent/` folder inside each lab is **automatically scaffolded** by the Foundry extension - you then customize the code, test locally, and deploy.
 
+<!-- CO-OP TRANSLATOR LANGUAGES TABLE START -->
+<!-- CO-OP TRANSLATOR LANGUAGES TABLE END -->
+
 ---
 
 ## Architecture
